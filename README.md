@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on python,arduino<br>i am looking to collaborate with html<br>i am currently learning python<br>ask me about python and arduino<br>i am making funny python codes
+i am currently working on python,arduino,java<br>i am looking to collaborate with html<br>i am currently learning python<br>ask me about python and arduino<br>i am making funny python codes
 
 
 ## 🌐 Socials:
